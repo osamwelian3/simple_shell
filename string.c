@@ -5,7 +5,6 @@
  * contains a copy of the string given as a parameter
  * @str: pointer to a string
  * Return: pointer to a string
- */
 char *_strdup(char *str)
 {
 	int i, l;
