@@ -154,8 +154,8 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 No known Bugs.
 
 ## TEAM
-Chokri Inès  : [LinkedIn/inès] | [GitHub/inès] | [Twitter/inès]\
-Matri Mariem : [LinkedIn/mariem] | [GitHub/mariem] | [Twitter/mariem]
+Samuel Ian : [LinkedIn/osamwelian3] | [GitHub/osamwelian3] | [Twitter/osamwelian3]\
+Emeldah Matengo: [LinkedIn/melpositivity] | [GitHub/melpositivity] | [Twitter/melpositivity]
 
 [Article]: <https://www.linkedin.com/pulse/what-really-happens-when-you-type-ls-l-shell-mariem-matri/>
 [Holberton School]: <https://www.holbertonschool.com>
